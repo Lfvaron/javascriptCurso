@@ -1,0 +1,18 @@
+{
+  "name": "poyecto-node",
+  "version": "1.0.0",
+  "description": "este es mi primer proyecto de javascript con node en Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node.js",
+    "saludar":"node openBootcamp.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "holamundo",
+    "first",
+    "project"
+  ],
+  "author": "Luis varon",
+  "license": "ISC"
+}
